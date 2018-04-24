@@ -1,5 +1,5 @@
 MYCOMPANY
-temlate
+template
  
 adaptive 1 page markup from psd
 
